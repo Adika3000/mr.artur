@@ -1,0 +1,38 @@
+.main {
+background: bisque;
+height: 100vh;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttons{
+  display: flex;
+  
+}
+.button-div{
+    padding: 20px;
+       
+}
+.text{
+    display: flex;
+    
+    
+}
+.images{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+.futbolka{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
